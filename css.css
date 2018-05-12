@@ -1,0 +1,126 @@
+.bg
+{
+  width: 60%;
+  max-height: 500px;
+	padding-left:500px;	
+}
+
+.bg2
+{
+  width: 50%;
+  max-height: 500px;
+}
+
+.textFirstPageBig{
+	font-size: 50px;
+	color: #FACC2E;
+}
+
+.textFirstPageSmall{
+	
+	font-size: 25px;
+	color: #FACC2E;
+	text-align: center;
+	padding-left: 500px;
+	padding-right: 500px;
+}
+
+.textFirstPageSmall2{
+	text-align: center;
+	padding-left: 500px;
+	padding-right: 500px;
+}
+
+.footer {
+    left: 0;
+    bottom: 100;
+    width: 100%;
+    background-color: #1C1C1C;
+    color: white;
+	height: 120px;
+	text-align: center;
+}
+
+.asdf {  
+	padding-left:100px;  
+	text-align:center;
+}
+
+
+
+input[type=text], select {
+	
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px 0;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 30%;
+    background-color: #1C1C1C;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: gold;
+}
+
+.button {
+    background-color: #4CAF50; 
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.err{
+	color: red;
+	font-size: 30px;			
+}
+.imgArt{
+	height: 300px;
+	width: 400px;
+}
+
+.ok{
+		color: green;
+	font-size: 30px;
+}
+
+//============================SLIDESHOW
+
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.mySlides {
+    display: none;
+}
+
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+
+
+
+
+
